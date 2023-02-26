@@ -39,8 +39,8 @@ class TestBuilderPattern {
 	void testBuilderPatternUsingLombok() {
 		// given 
 		String accountNumber = "22738022275";
-		String name = "John";
-		String email = "john@test.com";
+		String name = "Ali";
+		String email = "ali@test.com";
 		
 		
 		BankAccount underTest = BankAccount

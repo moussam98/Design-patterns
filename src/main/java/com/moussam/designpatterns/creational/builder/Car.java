@@ -1,12 +1,10 @@
 package com.moussam.designpatterns.creational.builder;
 
-import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-@EqualsAndHashCode
 public class Car {
 
 	private int id;
